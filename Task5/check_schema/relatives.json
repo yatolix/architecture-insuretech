@@ -1,0 +1,7 @@
+[
+  {"id": "201", "relationType": "Spouse", "name": "Mary Smith", "age": 33, "clientId": "1"},
+  {"id": "202", "relationType": "Child", "name": "Tom Smith", "age": 8, "clientId": "1"},
+  {"id": "203", "relationType": "Mother", "name": "Sarah Brown", "age": 58, "clientId": "2"},
+  {"id": "204", "relationType": "Father", "name": "Robert Wilson", "age": 65, "clientId": "3"},
+  {"id": "205", "relationType": "Sister", "name": "Emma Wilson", "age": 39, "clientId": "3"}
+]

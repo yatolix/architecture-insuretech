@@ -1,0 +1,2 @@
+ariadne==0.23.0
+uvicorn[standard]==0.29.0
