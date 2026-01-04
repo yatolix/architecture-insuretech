@@ -1,0 +1,6 @@
+[
+  {"id": "101", "type": "Passport", "number": "AB123456", "issueDate": "2020-01-15", "expiryDate": "2030-01-15", "clientId": "1"},
+  {"id": "102", "type": "Driver License", "number": "DL789012", "issueDate": "2021-03-20", "expiryDate": "2031-03-20", "clientId": "1"},
+  {"id": "103", "type": "Passport", "number": "CD654321", "issueDate": "2019-05-10", "expiryDate": "2029-05-10", "clientId": "2"},
+  {"id": "104", "type": "ID Card", "number": "ID555888", "issueDate": "2022-02-01", "clientId": "3"}
+]
